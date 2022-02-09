@@ -1,0 +1,48 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size:30px;
+    width:100%;
+    margin:0px;
+    color:black;
+    font-weight: bold;  
+}
+
+.note{
+    font-size:20px;
+    width:100%;
+    margin:0px;
+    color:white;
+    font-weight: bold;  
+}
+h3{
+    color:black;
+    font-weight:bold;
+}
+input{
+    width:600px;
+    border-width: 5px;
+    border-color:black ;
+    height:40px;
+}
+#start{
+    width:150px;
+    font-size:25px;
+    font-weight:bold;
+}
+#status,#number_objects
+{
+font-size: 28px;
+width:400px;
+height:30px;
+color:white ;
+background-color:purple;
+border-radius: 10px;
+}
+
+canvas{
+    box-shadow:8px 8px 8px red;
+    border-radius:7px;
+    margin-top:200px;
+}
